@@ -1,0 +1,15 @@
+.table  {
+    border-collapse: collapse;
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
